@@ -16,179 +16,181 @@ OECD_unempl, , ,https://data.oecd.org/unemp/long-term-unemployment-rate.htm,
 WB_Edstats, , ,https://databank.worldbank.org/source/education-statistics-%5E-all-indicators, 
 WB_WDI, , ,https://databank.worldbank.org/source/world-development-indicators, 
 WHO_UNICEF_JMP, , ,https://washdata.org/data/household, 
-Source_1, , , ,"2004 Fiji national nutrition survey: Main report. Suva, Fiji, 2007 (and additional analysis)."
-Source_2, , , ,"2009-2010 Papua New Guinea household income and expenditure survey: Summary tables. Port Moresby: National Statistical Office, 2013 (and additional analysis)."
-Source_3, , , ,2011 Education Managament Information System Data Vanuatu - MOET Annual Statistics Report 2015
-Source_4, , , ,2011 Ministry of Education JEMCO Report - https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/e6/e6854741d080df451ddbe461d5f51652.pdf?sv=2015-12-11&sr=b&sig=eXYZ77gO0MYydAM0SxcMDsrzzcXAq8mxYmIgEYIBMpI%3D&se=2021-06-05T23%3A17%3A34Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22FSM_2011_National_JEMCO_Indicators.pdf%22
-Source_5, , , ,2011 TONGA Education Management Information System
-Source_6, , , ,"2012  Tuvalu Education Managament Information System data, Tuvalu Education Statistical Report 2015 - https://sdd.spc.int/digital_library/tuvalu-2015-education-statistical-report"
-Source_7, , , ,2012 Education Managament Information System Data Vanuatu - MOET Annual Statistics Report 2015
-Source_8, , , ,2012 Pacific Regional MDGs Tracking Report. Accessed from https://pacific-data.sprep.org/system/files/MDG%20Track%20Rpt%20web%2020122.pdf
-Source_9, , , ,"2013  Tuvalu Education Managament Information System data, Tuvalu Education Statistical Report 2015 - https://sdd.spc.int/digital_library/tuvalu-2015-education-statistical-report"
-Source_10, , , ,2013 Annual Statistical Digest (ASD) Ministry of Education - https://sdd.spc.int/digital_library/vanuatu-2012-2013-education-digest
-Source_11, , , ,2013 Education Managament Information System Data Vanuatu - MOET Annual Statistics Report 2015
-Source_12, , , ,2014 Education Managament Information System Data Vanuatu - MOET Annual Statistics Report 2015
-Source_13, , , ,"2015-2018 Education Sector Strategic Development Plan: Ministry of Education, Heritage and Arts. Fiji. - http://www.education.gov.fj/wp-content/uploads/2019/01/2015-2018_ESSDP.pdf"
-Source_14, , , ,"2016 RoN Education Management Information System Data. Nauru - Department of Education, Manager of Statistics. Accessed on NMDI website on 30 October 2020"
-Source_17, , , ,AusAID from MOE via PIFS Tracking Report 2012 cited in PNG - MOE Performacne Assessment Framework 2010
-Source_19, , , ,"Bureau of Statistics [Nauru], Department of Health [Nauru], the Pacific Community (SPC). Nauru Vital Statistics Report 2008-2013. Nauru: Bureau of Statistics and Department of Health; Nov 2015. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/CRVS/Reports/Nauru_2008_2013_CRVS_Report.pdf"
-Source_20, , , ,Census Report - Marshall Islands 1999_AvM&F
-Source_21, , , ,Census Report - Palau 2005_AVM&F
-Source_22, , , ,"Census-Surveys and Demography Division, Samoa Bureau of Statistics, Government of Samoa. 2014. Samoa Demographic and Health Survey 2014. . Apia, Samoa: Ministry of Health/Samoa. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/DHS/Samoa_Demographic_and_Health_Survey_DHS_Final_2014.pdf"
-Source_23, , , ,"Central Statistics Division (TCSD), SPC and Macro International Inc. 2007. Tuvalu Demographic and Health Survey. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/DHS/Tuvalu_Demographic_and_Health_Survey_DHS_Report_2007.pdf"
-Source_25, , , ,"Division of Statistics, Budget, Overseas Development Assistance and Compact Management (SBOC), FSM National Government. n.d. Summary Analysis of Key Indicators from the FSM 2010 Census of Population and Housing. Retrieved from: https://www.spc.int/DigitalLibrary/Doc/SDD/Census/FM/FSM_2010_Census_Population_Indicators.pdf?attachment=true"
-Source_26, , , ,"Federated States of Micronesia Education Management Information System Online, from NMDI website, accessed on 30 October 2020 from https://www.spc.int/nmdi/mdg2"
-Source_27, , , ,"Federated States of Micronesia Education Management Information System Online, sourced from the NMDI website on 2 November 2020 from https://www.spc.int/nmdi/education"
-Source_28, , , ,Fiji - Ministry of Education Annual Report 2013 - http://www.parliament.gov.fj/wp-content/uploads/2017/02/Education_2013.pdf
-Source_29, , , ,"Fiji Bureau of Statistics, Fiji. 2011. Report on the 2008-09 household income and expenditure survey. Retrieved from: https://www.spc.int/DigitalLibrary/Doc/SDD/HIES/FJ/Fiji_2008_2009_HIES_Report.pdf?attachment=true"
-Source_30, , , ,"Fiji Data Provisions - Convention on the Elimination of all forms of Discrimation Against Women (CEDAW) Committee 2018, accessed from https://tbinternet.ohchr.org/Treaties/CEDAW/Shared%20Documents/FJI/INT_CEDAW_AIS_FJI_30530_E.pdf"
-Source_31, , , ,Fiji Education Sector Strategic Development Plan 2012-2014 - http://planipolis.iiep.unesco.org/sites/planipolis/files/ressources/fiji-2012-2014_essdp_education_sector_strategic_devt-plan.pdf
-Source_32, , , ,Fiji Health Status Report 2017 - http://www.health.gov.fj/wp-content/uploads/2020/03/HSR-2017-.pdf
-Source_33, , , ,Fiji Ministry of Education Annual Report 2015 - http://www.education.gov.fj/wp-content/uploads/Publications/2015_Ministry_of_Education_Annual_Report.pdf
-Source_34, , , ,Fiji Ministry of Health and Medical Services Annual Report 2016 - http://www.health.gov.fj/wp-content/uploads/2018/03/MoHMS-Jan-July-Report-2016.pdf
-Source_35, , , ,"Fiji Ministry of Health and Medical Services Annual Report 2016, http://www.health.gov.fj/wp-content/uploads/2018/03/MoHMS-Jan-July-Report-2016.pdf"
-Source_37, , , ,"From KEMIS Online, sourced from Judicial Staff Education Committee (JSEC) and the South Sea Evangelica Church (SSEC) statistics combined. Accessed from National Minimum Development Indicators (NMDI) website on 2 November 2020 from https://www.spc.int/nmdi/education"
-Source_38, , , ,"From KEMIS Online, sourced from Judicial Staff Education Committee (JSEC) and the South Sea Evangelica Church (SSEC) statistics combined. Accessed from NMDI website on 2 November 2020 from https://www.spc.int/nmdi/education"
-Source_39, , , ,FSM - Ministry of Education National JEMCO Report 2010 - https://sdd.spc.int/digital_library/fsm-2010-national-jemco-20-education-indicators-report
-Source_40, , , ,FSM - MoE - National JEMCO Report 2011
-Source_41, , , ,FSM Education Data Digest 2018 - http://docplayer.net/132232174-Fsm-education-data-digest.html
-Source_42, , , ,"FSM Office of Statistics, Budget and Economic Management, Overseas Development Assistance, and Compact Management in cooperation with the FSM Millennium Development Goals Task Force. 2010. Millennium Development Goals & Status Report 2010: The Federated States of Micronesia. Retrieved from: https://www.pacific.undp.org/content/dam/fiji/docs/FSM_MDG.pdf"
-Source_43, , , ,Global Education Digest 2011 Comparing Education Statistics across  the world UNESCO Institute for Statistics. Retrieved from https://archive.crin.org/sites/default/files/images/docs/global_education_digest_2011_en.pdf
-Source_44, , , ,Global Education Digest 2011 Comparing Education Statistics across the world - UNESCO Institute for Statistics. Retrieved from https://archive.crin.org/sites/default/files/images/docs/global_education_digest_2011_en.pdf
-Source_45, , , ,Global Eudcaiton Digest 2011 Comparing Education Statistics across  the world UNESCO Institute for Statistics. Retrieved from https://archive.crin.org/sites/default/files/images/docs/global_education_digest_2011_en.pdf
-Source_46, , , ,"Health Promotion Administration, Ministry of Health and Welfare, Taiwan;   ; https://www.hpa.gov.tw/Pages/ashx/File.ashx?FilePath=~/File/Attach/12889/File_14869.pdf"
-Source_47, , , ,"Health Promotion Administration, Ministry of Health and Welfare, Taiwan; https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=268&pid=12886"
-Source_48, , , ,Kiribati - Ministry of Education - Digest of Education Statistics 2008 - https://sdd.spc.int/digital_library/kiribati-2008-education-statistics-digest
-Source_49, , , ,Kiribati - Ministry of Education - Digest of Education Statistics 2011 - https://sdd.spc.int/digital_library/kiribati-2011-education-statistics-digest
-Source_50, , , ,Kiribati - Ministry of Education - Digest of Education Statistics 2014 - https://sdd.spc.int/digital_library/kiribati-2014-education-statistics-digest
-Source_51, , , ,Kiribati Social Development Indicator Survey 2018-2019 - https://asiapacific.unfpa.org/en/publications/kiribati-social-development-indicator-survey-2018-19
-Source_52, , , ,KNOEMA Education Statistics. Accessed on 3 November 2020 from https://knoema.com/WBEDS2017Jun/education-statistics
-Source_54, , , ,"Marshall Islands Child Health and Nutrition Survey 2017, https://www.unicef.org/pacificislands/reports/republic-marshall-islands-integrated-child-health-and-nutrition-survey-2017-report"
-Source_55, , , ,"Marshall Islands Education Management Information System 2016 data, accessed from NMDI website on 2 November 2020 from https://www.spc.int/nmdi/education"
-Source_56, , , ,"Marshall Islands Ministry of Health Annual Report 2011, http://ghdx.healthdata.org/record/marshall-islands-ministry-health-annual-report-2011"
-Source_57, , , ,"MDG data, accessed 30 October 2020 from http://mdgs.un.org/unsd/mdg/Data.aspx"
-Source_58, , , ,Millennium Development Goal Indicators - Fiji 2015 - https://www.forumsec.org/wp-content/uploads/2020/03/2015-Pacific-Regional-MDGs-Tracking-Report.pdf
-Source_59, , , ,"Ministry of Education and Training Statistical Digest Report 2016-2018. Annual Statistics Digest Report, Ministry of Educaiton and Training (MoET), Vanuatu - https://moet.gov.vu/docs/statistics/2016-2018%20MoET%20Annual%20Statistical%20Digest%20-%20ENG%20version_2019.pdf"
-Source_60, , , ,"Ministry of Education, Government of the Republic of Kiribati. 2014. Digest of Education Statistics 2014. Retrieved from: https://www.spc.int/DigitalLibrary/Doc/SDD/Education/KI/Kiribati_2014_Education_Statistics_Digest.pdf?attachment=true"
-Source_61, , , ,"Ministry of Education, Heritage and Arts 2016-2017, accessed from NMDI website on 30 October 2020. Also available from: http://www.parliament.gov.fj/wp-content/uploads/2019/05/Ministry-of-Education-Heritage-and-Arts-2016-2017-Annual-Report.pdf"
-Source_62, , , ,"Ministry of Education, Taiwan; https://english.moe.gov.tw/cp-87-14508-95005-1.html"
-Source_63, , , ,"Ministry of Health & Medical Services, Fiji. 2017. Health Status Report 2016. Retrieved from: http://www.health.gov.fj/wp-content/uploads/2018/03/Annual-Report-2006.pdf"
-Source_64, , , ,"Ministry of Health and Welfare, Taiwan;  https://www.mohw.gov.tw/dl-30434-3c8f206d-54c9-4e28-9039-c63c89cf3dc7.html"
-Source_65, , , ,"Ministry of Health and Welfare, Taiwan; Appendix-B3 in https://www.mohw.gov.tw/dl-54339-4afc75a4-0196-4d0d-8889-415d20ff3e9c.html"
-Source_66, , , ,"Ministry of Health and Welfare, Taiwan; https://www.mohw.gov.tw/dl-30431-5a6406fb-34be-488d-8240-626790fa9965.html"
-Source_67, , , ,"Ministry of Health and Welfare, Taiwan; https://www.mohw.gov.tw/dl-30752-e17a8752-97ee-412a-8835-33542b093f49.html"
-Source_68, , , ,"Ministry of Health and Welfare, Taiwan; https://www.mohw.gov.tw/dl-30753-a0fd403c-a968-4d6e-b558-1a13f1a497c5.html"
-Source_69, , , ,"Ministry of Health, Republic of Palau. 2015. Annual Report 2014. Retrieved from: https://palau-data.sprep.org/system/files/MOH%20Annual%20Report%202014.pdf"
-Source_70, , , ,"Ministry of Health/Samoa, Samoa Bureau of Statistics, and ICF Macro. 2010. Samoa Demographic and Health Survey 2009. Apia, Samoa: Ministry of Health/Samoa. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/DHS/Samoa_Demographic_and_Health_Survey_DHS_2009.pdf"
-Source_71, , , ,"Ministry of the Interior, Taiwan; Adult Mortality calculated from life tables at: https://www.moi.gov.tw/english/cl.aspx?n=7780"
-Source_72, , , ,National Education For All - 2015 Review in Tuvalu. Sourced from UNESDOC Digital Library - http://uis.unesco.org/sites/default/files/documents/pacific-education-for-all-2015-review-en_1.pdf
-Source_73, , , ,"National Statistical Office (NSO) [Papua New Guinea] and ICF. 2019. Papua New Guinea Demographic and Health Survey 2016-18: Key Indicators Report. Port Moresby, PNG, and Rockville, Maryland, USA: NSO and ICF. Retrieved from: https://dhsprogram.com/publications/publication-PR123-Preliminary-Reports-Key-Indicators-Reports.cfm"
-Source_74, , , ,"National Statistics Office, Papa New Guinea. 2009. 2009-2010 Papua New Guinea Household Income and Expenditure Survey Summary Tables. Retrieved from: https://microdata.pacificdata.org/index.php/catalog/134/download/554"
-Source_75, , , ,"National Statistics, Taiwan; https://eng.stat.gov.tw/public/Attachment/410184513VTN8S5UB.pdf"
-Source_76, , , ,"Nauru - Department of Education, Manager of Statistics. Accessed from NMDI website on 30 October 2020"
-Source_77, , , ,"Nauru 2007 demographic and health survey. Demographic and Health Surveys. Auckland, New Zealand: NBS, SPC and Macro, 2009 ( http://www.spc.int/prism/country/nr/stats/Publication/DHS/dhs.htm, accessed 10/05/11)."
-Source_78, , , ,"Nauru Bureau of Statistics, SPC and Macro International Inc. 2007. Nauru 2007 Demographic and Health Survey. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/DHS/Nauru_Demographic_and_Health_Survey_DHS_Report_2007.pdf"
-Source_79, , , ,Nauru Census Report - 2011
-Source_80, , , ,Nauru Vital Statistics Report 2008-2013
-Source_81, , , ,"Nauru Vital Statistics Report 2008-2013, https://pacific-data.sprep.org/dataset/nauru-vital-statistics-report-2008-2013"
-Source_82, , , ,Nauru Vital Statistics Report 2008-2013. https://sdd.spc.int/search?s=Nauru+vital+statistics+report+2008-2013
-Source_83, , , ,Nauru Vital Statistics Report 2008-2013. Retrieved from https://pacific-data.sprep.org/dataset/nauru-vital-statistics-report-2008-2013
-Source_84, , , ,Nauru Vital Statistics Report 2015-2017
-Source_85, , , ,Nauru Vital Statistics Report 2015-2017 Average male and female values
-Source_88, , , ,NMDI--Census Report - Marshall Islands 1999
-Source_89, , , ,NMDI--Census Report - Marshall Islands 1999 from https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/98/98ae85ba01a4ac50c3fbaa54d46871b7.pdf?sv=2015-12-11&sr=b&sig=ySa%2Bp0qpbayyF2UuuHvhVXyw1MSFVw1SfI4kgoAo6aU%3D&se=2021-05-22T00%3A43%3A30Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22Marshall_Islands_1999_Census_Report.pdf%22
-Source_90, , , ,NMDI--Census Report - Nauru 2002
-Source_91, , , ,NMDI--Census Report - Palau 2005
-Source_92, , , ,NMDI--Census Report - Tuvalu 2002 - from http://prdrse4all.spc.int/node/4/content/tuvalu-2002-census-reports-volume-1-volume-2
-Source_93, , , ,NMDI--Tuvalu Census 2002 Report_AvM&F
-Source_94, , , ,NMDI-Census Report - Tuvalu 2002
-Source_95, , , ,NMDI-not referenced
-Source_102, , , ,Pacific Islands Forum Secretariat 2015 Pacific Regional MDGs Tracking Report - https://www.forumsec.org/wp-content/uploads/2020/03/2015-Pacific-Regional-MDGs-Tracking-Report.pdf
-Source_103, , , ,Pacific Islands Forum Secretariat. 2010. 2010 Pacific Regional MDGs Tracking Report. Retrieved from: https://pacific-data.sprep.org/system/files/689.pdf
-Source_104, , , ,Palau - Ministry of Education Statistics Yearbook 2011 - https://sdd.spc.int/digital_library/palau-2011-education-statistical-yearbook
-Source_105, , , ,Palau - MoE Database Extract
-Source_106, , , ,Papua New Guinea Economic Update Reinforcing Resilience 2017 - http://documents1.worldbank.org/curated/en/150591512370709162/Papua-New-Guinea-Economic-Update-Reinforcing-Resilience.pdf
-Source_107, , , ,"Papua New Guinea national micronutrient survey 2005: Final report. Port Moresby, Papua New Guinea, 2009 (and additional analysis)."
-Source_111, , , ,PNG education at a glance 2016. Accessed from NMDI website on 2 November 2020 from https://www.spc.int/nmdi/education
-Source_112, , , ,PNG Household Income and Expenditure Survey - 2009-2010 Summary Tables - https://sdd.spc.int/digital_library/png-2009-2010-hies-report-summary-tables
-Source_113, , , ,"Policy and Planning Unit, Ministry of Education, Republic of Vanuatu. 2012. Annual Statistics Report 2010-2011. Retrieved from: https://www.spc.int/DigitalLibrary/Doc/SDD/Education/VU/Vanuatu_2010_2011_Education_Digest.pdf?attachment=true"
-Source_114, , , ,"Policy and Planning Unit, Ministry of Education, Republic of Vanuatu. 2013. Annual Statistics Report 2013. Retrieved from: https://www.spc.int/DigitalLibrary/Doc/SDD/Education/VU/Vanuatu_2012_2013_Education_Digest.pdf?attachment=true"
-Source_115, , , ,"PRIDE, Policy Research Indicators Database, Taiwan, https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872893"
-Source_116, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872893
-Source_117, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872894
-Source_118, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872895
-Source_119, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872896
-Source_120, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872897
-Source_121, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872898
-Source_122, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872899
-Source_123, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872900
-Source_124, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872901
-Source_125, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872902
-Source_126, , , ,"Republic of Nauru, Department of Education, Education Statistics Digest 2015 - https://sdd.spc.int/digital_library/nauru-2015-education-digest"
-Source_127, , , ,"Republic of the Marshall Islands Integrated Child Health and Nutrition Survey 2017, Final Report. Majuro, Republic of the Marshall Islands: RMI Ministry of Health and Human Services, RMI Economic, Policy Planning and Statistic Office, 2017 (and additional analysis)"
-Source_128, , , ,"Republic of the Marshall Islands Ministry of Health and Human Services, RMI Economic, Policy Planning and Statistics Office and UNICEF. 2017. Republic of the Marshall Islands Integrated Child Health and Nutrition Survey 2017, Final Report. Majuro, Republic of the Marshall Islands: Republic of the Marshall Islands Ministry of Health and Human Services, RMI Economic, Policy Planning and Statistics Office. Retrieved from: https://www.unicef.org/pacificislands/RMI_ichns_print_e_mockup.pdfChild health and nutrition survey 2017"
-Source_129, , , ,RMI Statistical Yearbook 2017 - https://www.rmieppso.org/social/statisical-yearbook
-Source_131, , , ,Samoa - Ministry of Education - Education Statistical Digest 2012 - https://sdd.spc.int/digital_library/samoa-2012-education-stats-digest
-Source_132, , , ,Samoa - Ministry of Education - Education Statistical Digest 2016 - https://sdd.spc.int/digital_library/samoa-2016-education-stats-digest
-Source_133, , , ,"Samoa - Ministry of Education, Sports and Culture, Education Statistical Digest 2019 - https://www.mesc.gov.ws/wp-content/uploads/2020/05/2019-Statistical-Digest_FINAL_31st-Jan-2020.pdf"
-Source_134, , , ,Samoa Demographic and Health Survey 2014 (and additional analysis)
-Source_135, , , ,"Samoa Demographic and Health Survey 2014, https://www.sbs.gov.ws/digi/Samoa%20DHS%202014.pdf"
-Source_136, , , ,"Samoa Statistical Abstract 2017 report, accessed from NMDI website on 30 October 2020 - https://www.sbs.gov.ws/digi/2017%20-%20Samoa%20Bureau%20of%20Statistics%20-%20Statistical%20Abstract.pdf"
-Source_137, , , ,Solomon Islands - Ministry of Education and Human Resources Development - Performance Assessment Report (PAR) 2010-2014 - https://sdd.spc.int/digital_library/solomon-islands-performance-assessment-report-2010-2014
-Source_138, , , ,"Solomon Islands 2006-2007 demographic and health survey. DHS. Noumea, New Caledonia: SISO, SPC and Macro International Inc., 2007 (accessed 22/12/09 http://www.spc.int/prism/Country/SB/Stats/Publication/DHS07/report/SI-DHS-REPORT_TOC_Summary.pdf)"
-Source_139, , , ,"Solomon Islands Ministry of Health and Medical Services and the Pacific Community. 2017. Solomon Islands Demographic and Health Survey, 2015 (and additional analysis)"
-Source_140, , , ,Solomons Islands - MoE Education Digest
-Source_141, , , ,SPC from DOE cited in PNG - Department of Education.
-Source_142, , , ,"Tonga - Health Statistics, Senior Health Informatics Officer"
-Source_143, , , ,"Tonga Demographic and Health Survey 2012, https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/79/79b2571ec6acc68abcd0f0c34439761b.pdf?sv=2015-12-11&sr=b&sig=Cvascolg8blF7898ybttoqoB7cB6cntXkbYnt7btWGc%3D&se=2021-05-24T21%3A09%3A15Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22Tonga_Demographic_and_Health_Survey_DHS_Report_2012.pdf%22"
-Source_144, , , ,"Tonga demographic and health survey 2012. Noumea, New Caledonia: Secretariat of the Pacific Community, 2013."
-Source_145, , , ,"Tonga Department of Statistics and Tonga Ministry of Health, SPC and UNFPA. 2013. Tonga Demographic and Health Survey, 2012. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/DHS/Tonga_Demographic_and_Health_Survey_DHS_Report_2012.pdf"
-Source_146, , , ,"Tuvalu demographic and health survey. DHS. Noumea, New Caledonia: TCSD, SPC and Macro International Inc, 2007 (accessed 22/12/09 http://www.spc.int/sdp/index.php?option=com_docman&task=cat_view&gid=53&Itemid=42)."
-Source_147, , , ,"Tuvalu Education Department. Ministry of Education, Youth and Sports. 2015 Education Statistical Report. https://sdd.spc.int/digital_library/tuvalu-2015-education-statistical-report"
-Source_148, , , ,"Tuvalu Education Department. Ministry of Education, Youth and Sports. 2016 and 2017 Education Statistical Report. https://sdd.spc.int/digital_library/tuvalu-2016-2017-education-statistical-report"
-Source_150, , , ,"UIS data from UNESCO website, accessed on 10 December 2020 from http://data.uis.unesco.org/#"
-Source_151, , , ,"UIS data from UNESCO website, accessed on 11 December 2020 from http://data.uis.unesco.org/#"
-Source_152, , , ,"UIS data from UNESCO website, accessed on 3 November 2020 from http://data.uis.unesco.org/#"
-Source_153, , , ,"UNESCO education and literacy data, Nauru, accessed on 10 December 2020 from http://uis.unesco.org/en/country/nr"
-Source_154, , , ,"UNICEF Kiribati MISC6 2018-2019 Survey Findings Report, Table TM.3.1A, https://microdata.pacificdata.org/index.php/catalog/741"
-Source_155, , , ,"United Nations, Department of Economic and Social Affairs, Population Division (2016). World Contraceptive Use 2016 (POP/DB/CP/Rev2016). Retrieved from: https://www.un.org/en/development/desa/population/publications/dataset/contraception/wcu2016/UNPD_WCU2016_Country_Data_Survey-Based.xlsx"
-Source_156, , , ,"Unweighted average of male & female values from: Republic of the Marshall Islands Integrated Child Health and Nutrition Survey 2017, Final Report. Majuro, Republic of the Marshall Islands: RMI Ministry of Health and Human Services, RMI Economic, Policy Planning and Statistic Office, 2017 (and additional analysis)"
-Source_157, , , ,"Unweighted average of male/female - World Health Organization, 2006. Western pacific country health information profiles: 2006 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/10902/9290612290_eng.pdf"
-Source_158, , , ,"Unweighted male and female average from Tuvalu demographic and health survey. DHS. Noumea, New Caledonia: TCSD, SPC and Macro International Inc, 2007 (accessed 22/12/09 http://www.spc.int/sdp/index.php?option=com_docman&task=cat_view&gid=53&Itemid=42)"
-Source_159, , , ,"Vanuatu demographic and health survey 2013. Port Vila, Vanuatu, 2014. https://www.spc.int/DigitalLibrary/Doc/SDD/DHS/VU/Vanuatu_Demographic_and_Health_Survey_DHS_2013.html"
-Source_160, , , ,"Vanuatu multiple indicator cluster survey 2007 (MICS). Final Report. Port Vila, Vanuatu: Ministry of Health, Government of Vanuatu, 2008 (and additional analysis)."
-Source_161, , , ,"Water Resources Agency, Ministry of Economic Affairs; https://www-ws.wra.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAxL3JlbGZpbGUvOTA4NC82NzUxNS9lMWYwODEzYy1hYWMxLTQ1ZWMtODFlMy03YWRkYWExMjgxMzEucGRm&n=VDU2LnBkZg%3d%3d"
-Source_164, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2020
-Source_165, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2030
-Source_166, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2031
-Source_167, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2032
-Source_168, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2033
-Source_169, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2034
-Source_170, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2035
-Source_171, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2036
-Source_172, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2037
-Source_173, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2038
-Source_174, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2039
-Source_175, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2040
-Source_176, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2041
-Source_177, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 23 November 2020
-Source_178, , , ,"WHO Health Topics, GHO, indicators, prevalence of stunted among children u5 years of age (% height-for-age <-2 SD) Accessed on 3 January 2021 from https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-jme-country-children-aged-5-years-stunted-(-height-for-age--2-sd)"
-Source_179, , , ,"WHO_2001-2009 Health Sector Review. National Department of Health, May 2009. Papua New Guinea"
-Source_180, , , ,WHO_2004 Annual Report  Maternal & Child Health.Samoa
-Source_181, , , ,WHO_Department of Health and Social Affairs.Federated States of Micronesia
-Source_182, , , ,"WHO_Family Health Unit Statistics, Bureau of Public Health, Ministry of Health, Palau."
-Source_183, , , ,"WHO_Health Information and Planning Unit, Department of Health and Social Affairs, The Federated States of Micronesia."
-Source_184, , , ,"WHO_Health Information Unit, Ministry of Health and Medical Services. Kiribati"
-Source_185, , , ,"WHO_Ministry of Health Annual Report 2009. Ministry of Health, Fiji. Accessed on August 2011 at [http://www.health.gov.fj/files/reports/Annual%20Report%202009.pdf]"
-Source_186, , , ,"WHO_Ministry of Health, Marshall Islands."
-Source_187, , , ,"WHO_Ministy of Health Annual Report (Kumiti Ejmour) Fiscal Year 2007 & 2008, Marshall Islands."
-Source_188, , , ,"WHO_Pacific Island Populations - Estimates and projections 2005-2015, Secretariat of the Pacific Community, Noumea, 2006. [http://www.spc.int/demog/en/index.html]."
-Source_189, , , ,"WHO_Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat, World Population Prospects: The 2008 Revision and World Urbanization Prospects: The 2009 Revision,[http://esa.un.org/wup2009/unup/]Monday, J"
-Source_190, , , ,WHO_Report of the Minister of Health for the year 2007.Tonga
-Source_191, , , ,WHO_UNICEF-WHO Joint Immunization Report 2011. Vanuatu
-Source_192, , , ,"World Health Organization, 2005. Western pacific country health information profiles: 2005 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/13994/9290611979_2005_full.pdf"
-Source_193, , , ,"World Health Organization, 2006. Western pacific country health information profiles: 2006 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/10902/9290612290_eng.pdf"
-Source_194, , , ,"World Health Organization, 2008. Western pacific country health information profiles: 2008 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/10901/9789290613954_eng.pdf"
-Source_195, , , ,"World Health Organization, 2009. Western pacific country health information profiles: 2009 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/10900/9789290614425_eng.pdf"
-Source_196, , , ,"World Health Organization, 2010. Western pacific country health information profiles: 2010 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/5511/9789290614913_eng.pdf"
-Source_197, , , ,"World Health Organization, 2011. Western pacific country health information profiles: 2011 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/10522/9789290615408_eng.pdf"
+source_001, , , ,"2004 Fiji national nutrition survey: Main report. Suva, Fiji, 2007 (and additional analysis)."
+source_002, , , ,"2009-2010 Papua New Guinea household income and expenditure survey: Summary tables. Port Moresby: National Statistical Office, 2013 (and additional analysis)."
+source_003, , , ,2011 Education Managament Information System Data Vanuatu - MOET Annual Statistics Report 2015
+source_004, , , ,2011 Ministry of Education JEMCO Report - https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/e6/e6854741d080df451ddbe461d5f51652.pdf?sv=2015-12-11&sr=b&sig=eXYZ77gO0MYydAM0SxcMDsrzzcXAq8mxYmIgEYIBMpI%3D&se=2021-06-05T23%3A17%3A34Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22FSM_2011_National_JEMCO_Indicators.pdf%22
+source_005, , , ,2011 TONGA Education Management Information System
+source_006, , , ,"2012  Tuvalu Education Managament Information System data, Tuvalu Education Statistical Report 2015 - https://sdd.spc.int/digital_library/tuvalu-2015-education-statistical-report"
+source_007, , , ,2012 Education Managament Information System Data Vanuatu - MOET Annual Statistics Report 2015
+source_008, , , ,2012 Pacific Regional MDGs Tracking Report. Accessed from https://pacific-data.sprep.org/system/files/MDG%20Track%20Rpt%20web%2020122.pdf
+source_009, , , ,"2013  Tuvalu Education Managament Information System data, Tuvalu Education Statistical Report 2015 - https://sdd.spc.int/digital_library/tuvalu-2015-education-statistical-report"
+source_010, , , ,2013 Annual Statistical Digest (ASD) Ministry of Education - https://sdd.spc.int/digital_library/vanuatu-2012-2013-education-digest
+source_011, , , ,2013 Education Managament Information System Data Vanuatu - MOET Annual Statistics Report 2015
+source_012, , , ,2014 Education Managament Information System Data Vanuatu - MOET Annual Statistics Report 2015
+source_013, , , ,"2015-2018 Education Sector Strategic Development Plan: Ministry of Education, Heritage and Arts. Fiji. - http://www.education.gov.fj/wp-content/uploads/2019/01/2015-2018_ESSDP.pdf"
+source_014, , , ,"2016 RoN Education Management Information System Data. Nauru - Department of Education, Manager of Statistics. Accessed on NMDI website on 30 October 2020"
+source_017, , , ,AusAID from MOE via PIFS Tracking Report 2012 cited in PNG - MOE Performacne Assessment Framework 2010
+source_019, , , ,"Bureau of Statistics [Nauru], Department of Health [Nauru], the Pacific Community (SPC). Nauru Vital Statistics Report 2008-2013. Nauru: Bureau of Statistics and Department of Health; Nov 2015. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/CRVS/Reports/Nauru_2008_2013_CRVS_Report.pdf"
+source_020, , , ,Census Report - Marshall Islands 1999_AvM&F
+source_021, , , ,Census Report - Palau 2005_AVM&F
+source_022, , , ,"Census-Surveys and Demography Division, Samoa Bureau of Statistics, Government of Samoa. 2014. Samoa Demographic and Health Survey 2014. . Apia, Samoa: Ministry of Health/Samoa. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/DHS/Samoa_Demographic_and_Health_Survey_DHS_Final_2014.pdf"
+source_023, , , ,"Central Statistics Division (TCSD), SPC and Macro International Inc. 2007. Tuvalu Demographic and Health Survey. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/DHS/Tuvalu_Demographic_and_Health_Survey_DHS_Report_2007.pdf"
+source_025, , , ,"Division of Statistics, Budget, Overseas Development Assistance and Compact Management (SBOC), FSM National Government. n.d. Summary Analysis of Key Indicators from the FSM 2010 Census of Population and Housing. Retrieved from: https://www.spc.int/DigitalLibrary/Doc/SDD/Census/FM/FSM_2010_Census_Population_Indicators.pdf?attachment=true"
+source_026, , , ,"Federated States of Micronesia Education Management Information System Online, from NMDI website, accessed on 30 October 2020 from https://www.spc.int/nmdi/mdg2"
+source_027, , , ,"Federated States of Micronesia Education Management Information System Online, sourced from the NMDI website on 2 November 2020 from https://www.spc.int/nmdi/education"
+source_028, , , ,Fiji - Ministry of Education Annual Report 2013 - http://www.parliament.gov.fj/wp-content/uploads/2017/02/Education_2013.pdf
+source_029, , , ,"Fiji Bureau of Statistics, Fiji. 2011. Report on the 2008-09 household income and expenditure survey. Retrieved from: https://www.spc.int/DigitalLibrary/Doc/SDD/HIES/FJ/Fiji_2008_2009_HIES_Report.pdf?attachment=true"
+source_030, , , ,"Fiji Data Provisions - Convention on the Elimination of all forms of Discrimation Against Women (CEDAW) Committee 2018, accessed from https://tbinternet.ohchr.org/Treaties/CEDAW/Shared%20Documents/FJI/INT_CEDAW_AIS_FJI_30530_E.pdf"
+source_031, , , ,Fiji Education Sector Strategic Development Plan 2012-2014 - http://planipolis.iiep.unesco.org/sites/planipolis/files/ressources/fiji-2012-2014_essdp_education_sector_strategic_devt-plan.pdf
+source_032, , , ,Fiji Health Status Report 2017 - http://www.health.gov.fj/wp-content/uploads/2020/03/HSR-2017-.pdf
+source_033, , , ,Fiji Ministry of Education Annual Report 2015 - http://www.education.gov.fj/wp-content/uploads/Publications/2015_Ministry_of_Education_Annual_Report.pdf
+source_034, , , ,Fiji Ministry of Health and Medical Services Annual Report 2016 - http://www.health.gov.fj/wp-content/uploads/2018/03/MoHMS-Jan-July-Report-2016.pdf
+source_035, , , ,"Fiji Ministry of Health and Medical Services Annual Report 2016, http://www.health.gov.fj/wp-content/uploads/2018/03/MoHMS-Jan-July-Report-2016.pdf"
+source_037, , , ,"From KEMIS Online, sourced from Judicial Staff Education Committee (JSEC) and the South Sea Evangelica Church (SSEC) statistics combined. Accessed from National Minimum Development Indicators (NMDI) website on 2 November 2020 from https://www.spc.int/nmdi/education"
+source_038, , , ,"From KEMIS Online, sourced from Judicial Staff Education Committee (JSEC) and the South Sea Evangelica Church (SSEC) statistics combined. Accessed from NMDI website on 2 November 2020 from https://www.spc.int/nmdi/education"
+source_039, , , ,FSM - Ministry of Education National JEMCO Report 2010 - https://sdd.spc.int/digital_library/fsm-2010-national-jemco-20-education-indicators-report
+source_040, , , ,FSM - MoE - National JEMCO Report 2011
+source_041, , , ,FSM Education Data Digest 2018 - http://docplayer.net/132232174-Fsm-education-data-digest.html
+source_042, , , ,"FSM Office of Statistics, Budget and Economic Management, Overseas Development Assistance, and Compact Management in cooperation with the FSM Millennium Development Goals Task Force. 2010. Millennium Development Goals & Status Report 2010: The Federated States of Micronesia. Retrieved from: https://www.pacific.undp.org/content/dam/fiji/docs/FSM_MDG.pdf"
+source_043, , , ,Global Education Digest 2011 Comparing Education Statistics across  the world UNESCO Institute for Statistics. Retrieved from https://archive.crin.org/sites/default/files/images/docs/global_education_digest_2011_en.pdf
+source_044, , , ,Global Education Digest 2011 Comparing Education Statistics across the world - UNESCO Institute for Statistics. Retrieved from https://archive.crin.org/sites/default/files/images/docs/global_education_digest_2011_en.pdf
+source_045, , , ,Global Eudcaiton Digest 2011 Comparing Education Statistics across  the world UNESCO Institute for Statistics. Retrieved from https://archive.crin.org/sites/default/files/images/docs/global_education_digest_2011_en.pdf
+source_046, , , ,"Health Promotion Administration, Ministry of Health and Welfare, Taiwan;   ; https://www.hpa.gov.tw/Pages/ashx/File.ashx?FilePath=~/File/Attach/12889/File_14869.pdf"
+source_047, , , ,"Health Promotion Administration, Ministry of Health and Welfare, Taiwan; https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=268&pid=12886"
+source_048, , , ,Kiribati - Ministry of Education - Digest of Education Statistics 2008 - https://sdd.spc.int/digital_library/kiribati-2008-education-statistics-digest
+source_049, , , ,Kiribati - Ministry of Education - Digest of Education Statistics 2011 - https://sdd.spc.int/digital_library/kiribati-2011-education-statistics-digest
+source_050, , , ,Kiribati - Ministry of Education - Digest of Education Statistics 2014 - https://sdd.spc.int/digital_library/kiribati-2014-education-statistics-digest
+source_051, , , ,Kiribati Social Development Indicator Survey 2018-2019 - https://asiapacific.unfpa.org/en/publications/kiribati-social-development-indicator-survey-2018-19
+source_052, , , ,KNOEMA Education Statistics. Accessed on 3 November 2020 from https://knoema.com/WBEDS2017Jun/education-statistics
+source_054, , , ,"Marshall Islands Child Health and Nutrition Survey 2017, https://www.unicef.org/pacificislands/reports/republic-marshall-islands-integrated-child-health-and-nutrition-survey-2017-report"
+source_055, , , ,"Marshall Islands Education Management Information System 2016 data, accessed from NMDI website on 2 November 2020 from https://www.spc.int/nmdi/education"
+source_056, , , ,"Marshall Islands Ministry of Health Annual Report 2011, http://ghdx.healthdata.org/record/marshall-islands-ministry-health-annual-report-2011"
+source_057, , , ,"MDG data, accessed 30 October 2020 from http://mdgs.un.org/unsd/mdg/Data.aspx"
+source_058, , , ,Millennium Development Goal Indicators - Fiji 2015 - https://www.forumsec.org/wp-content/uploads/2020/03/2015-Pacific-Regional-MDGs-Tracking-Report.pdf
+source_059, , , ,"Ministry of Education and Training Statistical Digest Report 2016-2018. Annual Statistics Digest Report, Ministry of Educaiton and Training (MoET), Vanuatu - https://moet.gov.vu/docs/statistics/2016-2018%20MoET%20Annual%20Statistical%20Digest%20-%20ENG%20version_2019.pdf"
+source_060, , , ,"Ministry of Education, Government of the Republic of Kiribati. 2014. Digest of Education Statistics 2014. Retrieved from: https://www.spc.int/DigitalLibrary/Doc/SDD/Education/KI/Kiribati_2014_Education_Statistics_Digest.pdf?attachment=true"
+source_061, , , ,"Ministry of Education, Heritage and Arts 2016-2017, accessed from NMDI website on 30 October 2020. Also available from: http://www.parliament.gov.fj/wp-content/uploads/2019/05/Ministry-of-Education-Heritage-and-Arts-2016-2017-Annual-Report.pdf"
+source_062, , , ,"Ministry of Education, Taiwan; https://english.moe.gov.tw/cp-87-14508-95005-1.html"
+source_063, , , ,"Ministry of Health & Medical Services, Fiji. 2017. Health Status Report 2016. Retrieved from: http://www.health.gov.fj/wp-content/uploads/2018/03/Annual-Report-2006.pdf"
+source_064, , , ,"Ministry of Health and Welfare, Taiwan;  https://www.mohw.gov.tw/dl-30434-3c8f206d-54c9-4e28-9039-c63c89cf3dc7.html"
+source_065, , , ,"Ministry of Health and Welfare, Taiwan; Appendix-B3 in https://www.mohw.gov.tw/dl-54339-4afc75a4-0196-4d0d-8889-415d20ff3e9c.html"
+source_066, , , ,"Ministry of Health and Welfare, Taiwan; https://www.mohw.gov.tw/dl-30431-5a6406fb-34be-488d-8240-626790fa9965.html"
+source_067, , , ,"Ministry of Health and Welfare, Taiwan; https://www.mohw.gov.tw/dl-30752-e17a8752-97ee-412a-8835-33542b093f49.html"
+source_068, , , ,"Ministry of Health and Welfare, Taiwan; https://www.mohw.gov.tw/dl-30753-a0fd403c-a968-4d6e-b558-1a13f1a497c5.html"
+source_069, , , ,"Ministry of Health, Republic of Palau. 2015. Annual Report 2014. Retrieved from: https://palau-data.sprep.org/system/files/MOH%20Annual%20Report%202014.pdf"
+source_070, , , ,"Ministry of Health/Samoa, Samoa Bureau of Statistics, and ICF Macro. 2010. Samoa Demographic and Health Survey 2009. Apia, Samoa: Ministry of Health/Samoa. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/DHS/Samoa_Demographic_and_Health_Survey_DHS_2009.pdf"
+source_071, , , ,"Ministry of the Interior, Taiwan; Adult Mortality calculated from life tables at: https://www.moi.gov.tw/english/cl.aspx?n=7780"
+source_072, , , ,National Education For All - 2015 Review in Tuvalu. Sourced from UNESDOC Digital Library - http://uis.unesco.org/sites/default/files/documents/pacific-education-for-all-2015-review-en_1.pdf
+source_073, , , ,"National Statistical Office (NSO) [Papua New Guinea] and ICF. 2019. Papua New Guinea Demographic and Health Survey 2016-18: Key Indicators Report. Port Moresby, PNG, and Rockville, Maryland, USA: NSO and ICF. Retrieved from: https://dhsprogram.com/publications/publication-PR123-Preliminary-Reports-Key-Indicators-Reports.cfm"
+source_074, , , ,"National Statistics Office, Papa New Guinea. 2009. 2009-2010 Papua New Guinea Household Income and Expenditure Survey Summary Tables. Retrieved from: https://microdata.pacificdata.org/index.php/catalog/134/download/554"
+source_075, , , ,"National Statistics, Taiwan; https://eng.stat.gov.tw/public/Attachment/410184513VTN8S5UB.pdf"
+source_076, , , ,"Nauru - Department of Education, Manager of Statistics. Accessed from NMDI website on 30 October 2020"
+source_077, , , ,"Nauru 2007 demographic and health survey. Demographic and Health Surveys. Auckland, New Zealand: NBS, SPC and Macro, 2009 ( http://www.spc.int/prism/country/nr/stats/Publication/DHS/dhs.htm, accessed 10/05/11)."
+source_078, , , ,"Nauru Bureau of Statistics, SPC and Macro International Inc. 2007. Nauru 2007 Demographic and Health Survey. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/DHS/Nauru_Demographic_and_Health_Survey_DHS_Report_2007.pdf"
+source_079, , , ,Nauru Census Report - 2011
+source_080, , , ,Nauru Vital Statistics Report 2008-2013
+source_081, , , ,"Nauru Vital Statistics Report 2008-2013, https://pacific-data.sprep.org/dataset/nauru-vital-statistics-report-2008-2013"
+source_082, , , ,Nauru Vital Statistics Report 2008-2013. https://sdd.spc.int/search?s=Nauru+vital+statistics+report+2008-2013
+source_083, , , ,Nauru Vital Statistics Report 2008-2013. Retrieved from https://pacific-data.sprep.org/dataset/nauru-vital-statistics-report-2008-2013
+source_084, , , ,Nauru Vital Statistics Report 2015-2017
+source_085, , , ,Nauru Vital Statistics Report 2015-2017 Average male and female values
+source_088, , , ,NMDI--Census Report - Marshall Islands 1999
+source_089, , , ,NMDI--Census Report - Marshall Islands 1999 from https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/98/98ae85ba01a4ac50c3fbaa54d46871b7.pdf?sv=2015-12-11&sr=b&sig=ySa%2Bp0qpbayyF2UuuHvhVXyw1MSFVw1SfI4kgoAo6aU%3D&se=2021-05-22T00%3A43%3A30Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22Marshall_Islands_1999_Census_Report.pdf%22
+source_090, , , ,NMDI--Census Report - Nauru 2002
+source_091, , , ,NMDI--Census Report - Palau 2005
+source_092, , , ,NMDI--Census Report - Tuvalu 2002 - from http://prdrse4all.spc.int/node/4/content/tuvalu-2002-census-reports-volume-1-volume-2
+source_093, , , ,NMDI--Tuvalu Census 2002 Report_AvM&F
+source_094, , , ,NMDI-Census Report - Tuvalu 2002
+source_095, , , ,NMDI-not referenced
+source_102, , , ,Pacific Islands Forum Secretariat 2015 Pacific Regional MDGs Tracking Report - https://www.forumsec.org/wp-content/uploads/2020/03/2015-Pacific-Regional-MDGs-Tracking-Report.pdf
+source_103, , , ,Pacific Islands Forum Secretariat. 2010. 2010 Pacific Regional MDGs Tracking Report. Retrieved from: https://pacific-data.sprep.org/system/files/689.pdf
+source_104, , , ,Palau - Ministry of Education Statistics Yearbook 2011 - https://sdd.spc.int/digital_library/palau-2011-education-statistical-yearbook
+source_105, , , ,Palau - MoE Database Extract
+source_106, , , ,Papua New Guinea Economic Update Reinforcing Resilience 2017 - http://documents1.worldbank.org/curated/en/150591512370709162/Papua-New-Guinea-Economic-Update-Reinforcing-Resilience.pdf
+source_107, , , ,"Papua New Guinea national micronutrient survey 2005: Final report. Port Moresby, Papua New Guinea, 2009 (and additional analysis)."
+source_111, , , ,PNG education at a glance 2016. Accessed from NMDI website on 2 November 2020 from https://www.spc.int/nmdi/education
+source_112, , , ,PNG Household Income and Expenditure Survey - 2009-2010 Summary Tables - https://sdd.spc.int/digital_library/png-2009-2010-hies-report-summary-tables
+source_113, , , ,"Policy and Planning Unit, Ministry of Education, Republic of Vanuatu. 2012. Annual Statistics Report 2010-2011. Retrieved from: https://www.spc.int/DigitalLibrary/Doc/SDD/Education/VU/Vanuatu_2010_2011_Education_Digest.pdf?attachment=true"
+source_114, , , ,"Policy and Planning Unit, Ministry of Education, Republic of Vanuatu. 2013. Annual Statistics Report 2013. Retrieved from: https://www.spc.int/DigitalLibrary/Doc/SDD/Education/VU/Vanuatu_2012_2013_Education_Digest.pdf?attachment=true"
+source_115, , , ,"PRIDE, Policy Research Indicators Database, Taiwan, https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872893"
+source_116, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872893
+source_117, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872894
+source_118, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872895
+source_119, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872896
+source_120, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872897
+source_121, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872898
+source_122, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872899
+source_123, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872900
+source_124, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872901
+source_125, , , ,PRIDE: Policy Research Indicators Database    https://pride.stpi.narl.org.tw/chart?tagId=4b1141ad70108ff001701e40f7872902
+source_126, , , ,"Republic of Nauru, Department of Education, Education Statistics Digest 2015 - https://sdd.spc.int/digital_library/nauru-2015-education-digest"
+source_127, , , ,"Republic of the Marshall Islands Integrated Child Health and Nutrition Survey 2017, Final Report. Majuro, Republic of the Marshall Islands: RMI Ministry of Health and Human Services, RMI Economic, Policy Planning and Statistic Office, 2017 (and additional analysis)"
+source_128, , , ,"Republic of the Marshall Islands Ministry of Health and Human Services, RMI Economic, Policy Planning and Statistics Office and UNICEF. 2017. Republic of the Marshall Islands Integrated Child Health and Nutrition Survey 2017, Final Report. Majuro, Republic of the Marshall Islands: Republic of the Marshall Islands Ministry of Health and Human Services, RMI Economic, Policy Planning and Statistics Office. Retrieved from: https://www.unicef.org/pacificislands/RMI_ichns_print_e_mockup.pdfChild health and nutrition survey 2017"
+source_129, , , ,RMI Statistical Yearbook 2017 - https://www.rmieppso.org/social/statisical-yearbook
+source_131, , , ,Samoa - Ministry of Education - Education Statistical Digest 2012 - https://sdd.spc.int/digital_library/samoa-2012-education-stats-digest
+source_132, , , ,Samoa - Ministry of Education - Education Statistical Digest 2016 - https://sdd.spc.int/digital_library/samoa-2016-education-stats-digest
+source_133, , , ,"Samoa - Ministry of Education, Sports and Culture, Education Statistical Digest 2019 - https://www.mesc.gov.ws/wp-content/uploads/2020/05/2019-Statistical-Digest_FINAL_31st-Jan-2020.pdf"
+source_134, , , ,"Samoa Demographic and Health Survey 2014 (and additional analysis, averaging male and female scores)"
+source_135, , , ,Samoa Demographic and Health Survey 2014 (and additional analysis)
+source_136, , , ,"Samoa Demographic and Health Survey 2014, https://www.sbs.gov.ws/digi/Samoa%20DHS%202014.pdf"
+source_137, , , ,"Samoa Statistical Abstract 2017 report, accessed from NMDI website on 30 October 2020 - https://www.sbs.gov.ws/digi/2017%20-%20Samoa%20Bureau%20of%20Statistics%20-%20Statistical%20Abstract.pdf"
+source_138, , , ,Solomon Islands - Ministry of Education and Human Resources Development - Performance Assessment Report (PAR) 2010-2014 - https://sdd.spc.int/digital_library/solomon-islands-performance-assessment-report-2010-2014
+source_139, , , ,"Solomon Islands 2006-2007 demographic and health survey. DHS. Noumea, New Caledonia: SISO, SPC and Macro International Inc., 2007 (accessed 22/12/09 http://www.spc.int/prism/Country/SB/Stats/Publication/DHS07/report/SI-DHS-REPORT_TOC_Summary.pdf)"
+source_140, , , ,"Solomon Islands Ministry of Health and Medical Services and the Pacific Community. 2017. Solomon Islands Demographic and Health Survey, 2015 (and additional analysis)"
+source_141, , , ,Solomons Islands - MoE Education Digest
+source_142, , , ,SPC from DOE cited in PNG - Department of Education.
+source_143, , , ,"Tonga - Health Statistics, Senior Health Informatics Officer"
+source_144, , , ,"Tonga Demographic and Health Survey 2012, https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/79/79b2571ec6acc68abcd0f0c34439761b.pdf?sv=2015-12-11&sr=b&sig=Cvascolg8blF7898ybttoqoB7cB6cntXkbYnt7btWGc%3D&se=2021-05-24T21%3A09%3A15Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22Tonga_Demographic_and_Health_Survey_DHS_Report_2012.pdf%22"
+source_145, , , ,"Tonga demographic and health survey 2012. Noumea, New Caledonia: Secretariat of the Pacific Community, 2013."
+source_146, , , ,"Tonga Department of Statistics and Tonga Ministry of Health, SPC and UNFPA. 2013. Tonga Demographic and Health Survey, 2012. Retrieved from: http://www.spc.int/DigitalLibrary/Doc/SDD/DHS/Tonga_Demographic_and_Health_Survey_DHS_Report_2012.pdf"
+source_147, , , ,"Tuvalu demographic and health survey. DHS. Noumea, New Caledonia: TCSD, SPC and Macro International Inc, 2007 (accessed 22/12/09 http://www.spc.int/sdp/index.php?option=com_docman&task=cat_view&gid=53&Itemid=42)."
+source_148, , , ,"Tuvalu Education Department. Ministry of Education, Youth and Sports. 2015 Education Statistical Report. https://sdd.spc.int/digital_library/tuvalu-2015-education-statistical-report"
+source_149, , , ,"Tuvalu Education Department. Ministry of Education, Youth and Sports. 2016 and 2017 Education Statistical Report. https://sdd.spc.int/digital_library/tuvalu-2016-2017-education-statistical-report"
+source_151, , , ,"UIS data from UNESCO website, accessed on 10 December 2020 from http://data.uis.unesco.org/#"
+source_152, , , ,"UIS data from UNESCO website, accessed on 11 December 2020 from http://data.uis.unesco.org/#"
+source_153, , , ,"UIS data from UNESCO website, accessed on 3 November 2020 from http://data.uis.unesco.org/#"
+source_154, , , ,"UNESCO education and literacy data, Nauru, accessed on 10 December 2020 from http://uis.unesco.org/en/country/nr"
+source_155, , , ,"UNICEF Kiribati MISC6 2018-2019 Survey Findings Report, Table TM.3.1A, https://microdata.pacificdata.org/index.php/catalog/741"
+source_156, , , ,"United Nations, Department of Economic and Social Affairs, Population Division (2016). World Contraceptive Use 2016 (POP/DB/CP/Rev2016). Retrieved from: https://www.un.org/en/development/desa/population/publications/dataset/contraception/wcu2016/UNPD_WCU2016_Country_Data_Survey-Based.xlsx"
+source_157, , , ,"Unweighted average of male & female values from: Republic of the Marshall Islands Integrated Child Health and Nutrition Survey 2017, Final Report. Majuro, Republic of the Marshall Islands: RMI Ministry of Health and Human Services, RMI Economic, Policy Planning and Statistic Office, 2017 (and additional analysis)"
+source_158, , , ,"Unweighted average of male/female - World Health Organization, 2006. Western pacific country health information profiles: 2006 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/10902/9290612290_eng.pdf"
+source_159, , , ,"Unweighted male and female average from Tuvalu demographic and health survey. DHS. Noumea, New Caledonia: TCSD, SPC and Macro International Inc, 2007 (accessed 22/12/09 http://www.spc.int/sdp/index.php?option=com_docman&task=cat_view&gid=53&Itemid=42)"
+source_160, , , ,"Vanuatu demographic and health survey 2013. Port Vila, Vanuatu, 2014. https://www.spc.int/DigitalLibrary/Doc/SDD/DHS/VU/Vanuatu_Demographic_and_Health_Survey_DHS_2013.html"
+source_161, , , ,"Vanuatu multiple indicator cluster survey 2007 (MICS). Final Report. Port Vila, Vanuatu: Ministry of Health, Government of Vanuatu, 2008 (and additional analysis)."
+source_162, , , ,"Water Resources Agency, Ministry of Economic Affairs; https://www-ws.wra.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDAxL3JlbGZpbGUvOTA4NC82NzUxNS9lMWYwODEzYy1hYWMxLTQ1ZWMtODFlMy03YWRkYWExMjgxMzEucGRm&n=VDU2LnBkZg%3d%3d"
+source_165, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2020
+source_166, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2020; Average of male and female values.
+source_167, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2030
+source_168, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2031
+source_169, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2032
+source_170, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2033
+source_171, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2034
+source_172, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2035
+source_173, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2036
+source_174, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2037
+source_175, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2038
+source_176, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2039
+source_177, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2040
+source_178, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 16 October 2041
+source_179, , , ,WHO GHO indicators: Underfive mortality rate (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)) accessed on 23 November 2020
+source_180, , , ,"WHO Health Topics, GHO, indicators, prevalence of stunted among children u5 years of age (% height-for-age <-2 SD) Accessed on 3 January 2021 from https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-jme-country-children-aged-5-years-stunted-(-height-for-age--2-sd)"
+source_181, , , ,"WHO_2001-2009 Health Sector Review. National Department of Health, May 2009. Papua New Guinea"
+source_182, , , ,WHO_2004 Annual Report  Maternal & Child Health.Samoa
+source_183, , , ,WHO_Department of Health and Social Affairs.Federated States of Micronesia
+source_184, , , ,"WHO_Family Health Unit Statistics, Bureau of Public Health, Ministry of Health, Palau."
+source_185, , , ,"WHO_Health Information and Planning Unit, Department of Health and Social Affairs, The Federated States of Micronesia."
+source_186, , , ,"WHO_Health Information Unit, Ministry of Health and Medical Services. Kiribati"
+source_187, , , ,"WHO_Ministry of Health Annual Report 2009. Ministry of Health, Fiji. Accessed on August 2011 at [http://www.health.gov.fj/files/reports/Annual%20Report%202009.pdf]"
+source_188, , , ,"WHO_Ministry of Health, Marshall Islands."
+source_189, , , ,"WHO_Ministy of Health Annual Report (Kumiti Ejmour) Fiscal Year 2007 & 2008, Marshall Islands."
+source_190, , , ,"WHO_Pacific Island Populations - Estimates and projections 2005-2015, Secretariat of the Pacific Community, Noumea, 2006. [http://www.spc.int/demog/en/index.html]."
+source_191, , , ,"WHO_Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat, World Population Prospects: The 2008 Revision and World Urbanization Prospects: The 2009 Revision,[http://esa.un.org/wup2009/unup/]Monday, J"
+source_192, , , ,WHO_Report of the Minister of Health for the year 2007.Tonga
+source_193, , , ,WHO_UNICEF-WHO Joint Immunization Report 2011. Vanuatu
+source_194, , , ,"World Health Organization, 2005. Western pacific country health information profiles: 2005 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/13994/9290611979_2005_full.pdf"
+source_195, , , ,"World Health Organization, 2006. Western pacific country health information profiles: 2006 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/10902/9290612290_eng.pdf"
+source_196, , , ,"World Health Organization, 2008. Western pacific country health information profiles: 2008 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/10901/9789290613954_eng.pdf"
+source_197, , , ,"World Health Organization, 2009. Western pacific country health information profiles: 2009 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/10900/9789290614425_eng.pdf"
+source_198, , , ,"World Health Organization, 2010. Western pacific country health information profiles: 2010 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/5511/9789290614913_eng.pdf"
+source_199, , , ,"World Health Organization, 2011. Western pacific country health information profiles: 2011 revision. Retrieved from: https://iris.wpro.who.int/bitstream/handle/10665.1/10522/9789290615408_eng.pdf"
