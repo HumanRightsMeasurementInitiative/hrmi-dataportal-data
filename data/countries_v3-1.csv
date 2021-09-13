@@ -124,7 +124,7 @@ MYS,,,0,east-asia-pacific,east-asia,"asean,oic,not-oecd",,,
 MDV,,,0,south-asia,,"oic,not-oecd","icescr,iccpr",,
 MLI,,,0,sub-saharan-africa,,"oic,not-oecd","icescr,iccpr",,
 MLT,,,1,europe-central-asia,europe,not-oecd,"icescr,iccpr",,
-MHL,,,0,east-asia-pacific,pacific,not-oecd,"icescr,iccpr",,
+MHL,,,0,east-asia-pacific,pacific,not-oecd,"icescr,iccpr",,1
 MRT,,,0,sub-saharan-africa,,"oic,not-oecd","icescr,iccpr",,
 MUS,,,0,sub-saharan-africa,,not-oecd,"icescr,iccpr",,
 MEX,,,0,americas,,oecd,"icescr,iccpr",,
@@ -147,7 +147,7 @@ NER,,,0,sub-saharan-africa,,"oic,not-oecd","icescr,iccpr",,
 NGA,,,0,sub-saharan-africa,,"oic,not-oecd","icescr,iccpr",,
 NIU,selfgoverning,NZL,1,east-asia-pacific,pacific,not-oecd,,,1
 MKD,,,0,europe-central-asia,europe,not-oecd,"icescr,iccpr",,
-MNP,commonwealth_politicalunion,USA,1,east-asia-pacific,pacific,not-oecd,,,
+MNP,commonwealth_politicalunion,USA,1,east-asia-pacific,pacific,not-oecd,,,1
 NOR,,,1,europe-central-asia,europe,oecd,"icescr,iccpr",,
 OMN,,,1,middle-east-north-africa,middle-east,"oic,not-oecd",,,
 PAK,,,0,south-asia,,"oic,not-oecd","icescr,iccpr",,
